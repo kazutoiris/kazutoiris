@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,15 +57,15 @@ Sunday       28 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/09/2022 18:46:36 UTC
+ Last Updated on 02/09/2022 18:45:33 UTC
 <!--END_SECTION:waka-->
 
 ## License
