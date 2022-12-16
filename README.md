@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2033%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,15 +57,19 @@ Sunday       29 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     3 hrs 25 mins       ███████████████████░░░░░░   76.22% 
+TOML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
+C                        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
+CMake                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+ObjectiveC               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    4 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/12/2022 18:34:22 UTC
+ Last Updated on 16/12/2022 18:36:19 UTC
 <!--END_SECTION:waka-->
 
 ## License
