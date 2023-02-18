@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,15 +57,16 @@ Sunday          28 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 3 mins         ████████████████████████░   96.68 % 
+Nginx configuration file 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 17/02/2023 18:37:23 UTC
+ Last Updated on 18/02/2023 18:34:41 UTC
 <!--END_SECTION:waka-->
 
 ## License
