@@ -68,7 +68,7 @@ IntelliJ                 46 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 23/04/2023
+ Last Updated on 24/04/2023
 <!--END_SECTION:waka-->
 
 ## License
