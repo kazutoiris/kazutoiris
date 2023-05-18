@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 146 Contributions in the Year 2023
+> 🏆 149 Contributions in the Year 2023
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 44 Private Repositories  
  > 
@@ -55,16 +55,16 @@ Sunday       26 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   46 mins             ███████████████████░░░░░░   75.85% 
-JavaScript               14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15%
+Python                   42 mins             ██████████████████░░░░░░░   74.4% 
+JavaScript               14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.6%
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.0%
+VS Code                  57 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/05/2023
+ Last Updated on 18/05/2023
 <!--END_SECTION:waka-->
 
 ## License
