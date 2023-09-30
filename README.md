@@ -1,19 +1,29 @@
-### Hi there :wave:
+###
 
-![](https://profile-counter.glitch.me/kazutoiris/count.svg)
-
-## Current Topic
-
-+ :eye: Focusing on Security & AI
-
-## GitHub Stats
-
-<div>
-  <img align="left" width="49.4%" src="https://github-readme-stats.vercel.app/api?username=kazutoiris&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img align="right" width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazutoiris&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=kazutoiris&row=1&no-frame=true&margin-w=15&margin-h=15&theme=buddhism" />
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=kazutoiris&data=followers,repositories,stars,commits"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kazutoiris/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazutoiris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazutoiris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kazutoiris/kazutoiris/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
