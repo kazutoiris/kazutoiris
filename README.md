@@ -65,15 +65,16 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      7 mins              ████████████████████████░   97.17% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    8 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/11/2023
+ Last Updated on 25/11/2023
 <!--END_SECTION:waka-->
 
 ## License
