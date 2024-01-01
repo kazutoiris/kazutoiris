@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 267 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -74,7 +74,7 @@ VS Code                  32 mins             ███████████�
 ```
 
 
- Last Updated on 31/12/2023
+ Last Updated on 01/01/2024
 <!--END_SECTION:waka-->
 
 ## License
