@@ -65,15 +65,15 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 18/03/2024
+ Last Updated on 19/03/2024
 <!--END_SECTION:waka-->
 
 ## License
