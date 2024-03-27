@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 88 Contributions in the Year 2024
+> 🏆 89 Contributions in the Year 2024
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -65,15 +65,16 @@ Sunday       32 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+V                        49 mins             ████████████████████████░   98.17% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/03/2024
+ Last Updated on 27/03/2024
 <!--END_SECTION:waka-->
 
 ## License
