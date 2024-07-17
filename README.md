@@ -65,15 +65,16 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   45 mins             ███████████████████░░░░░░   78.35% 
+JavaScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/07/2024
+ Last Updated on 17/07/2024
 <!--END_SECTION:waka-->
 
 ## License
