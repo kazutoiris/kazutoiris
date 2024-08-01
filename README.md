@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 175 Contributions in the Year 2024
+> 🏆 177 Contributions in the Year 2024
  > 
 > 📦 1.5 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 52 Private Repositories  
  > 
@@ -77,7 +77,7 @@ IntelliJ IDEA            20 mins             ██████░░░░░�
 ```
 
 
- Last Updated on 31/07/2024
+ Last Updated on 01/08/2024
 <!--END_SECTION:waka-->
 
 ## License
