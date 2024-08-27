@@ -65,15 +65,15 @@ Sunday       19 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Scala                    1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/08/2024
+ Last Updated on 27/08/2024
 <!--END_SECTION:waka-->
 
 ## License
