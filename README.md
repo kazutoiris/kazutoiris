@@ -65,16 +65,15 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   8 mins              ███████████████████████░░   94.65% 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/09/2024
+ Last Updated on 24/09/2024
 <!--END_SECTION:waka-->
 
 ## License
