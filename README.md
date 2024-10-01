@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 210 Contributions in the Year 2024
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
@@ -73,7 +73,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2024
+ Last Updated on 01/10/2024
 <!--END_SECTION:waka-->
 
 ## License
