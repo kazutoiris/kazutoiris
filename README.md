@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 288 Contributions in the Year 2024
+> 🏆 287 Contributions in the Year 2024
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 55 Private Repositories  
  > 
@@ -73,7 +73,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2024
+ Last Updated on 29/10/2024
 <!--END_SECTION:waka-->
 
 ## License
