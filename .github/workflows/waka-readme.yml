@@ -24,4 +24,3 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
-          PUSH_BRANCH_NAME: "main"
