@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Readme
 
 on:
   schedule:
@@ -8,8 +8,8 @@ permissions:
   contents: write
 jobs:
 
-  update-readme:
-    name: Update Readme with Metrics
+  wakatime:
+    name: Update Readme with Wakatime Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -28,7 +28,8 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
 
-  generate:
+  snake:
+    name: Generate Snake
     runs-on: ubuntu-latest
     steps:
       - name: generate snake.svg
@@ -47,7 +48,7 @@ jobs:
 
   rerun-failed-jobs:
       runs-on: ubuntu-latest
-      needs: [ update-readme, generate ]
+      needs: [ wakatime, snake ]
       if: failure()
       steps:
         - name: Rerun failed jobs in the current workflow
