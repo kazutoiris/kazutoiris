@@ -108,30 +108,38 @@ def main():
             "The repository is either owned by me or contains commits that have been signed previously.",
             file=fh,
         )
-        print(
-            "\r\n".join(
-                map(
-                    lambda repo: f"* **{repo}**: Total of `{commit_check_result[repo]['all']}` commits, including `{commit_check_result[repo]['unverified']}` commits that are unsigned/unverified.",
-                    low_risk,
-                )
-            ),
-            file=fh,
-        )
+        if len(low_risk) > 0:
+            print(
+                "\r\n".join(
+                    map(
+                        lambda repo: f"* **{repo}**: Total of `{commit_check_result[repo]['all']}` commits, including `{commit_check_result[repo]['unverified']}` commits that are unsigned/unverified.",
+                        low_risk,
+                    )
+                ),
+                file=fh,
+            )
+        else:
+            print("> Nothing here. :spiral_notepad:")
         print("---", file=fh)
         print("## Dangerous :radioactive:", file=fh)
         print(
             "The repository is not under my control, and all commits are either unsigned or unverified.",
             file=fh,
         )
-        print(
-            "\r\n".join(
-                map(
-                    lambda repo: f"* **{repo}**: Total of `{commit_check_result[repo]['all']}` commits, including `{commit_check_result[repo]['unverified']}` commits that are unsigned/unverified.",
-                    dangerous,
-                )
-            ),
-            file=fh,
-        )
+        if len(dangerous) > 0:
+            print(
+                "\r\n".join(
+                    map(
+                        lambda repo: f"* **{repo}**: Total of `{commit_check_result[repo]['all']}` commits, including `{commit_check_result[repo]['unverified']}` commits that are unsigned/unverified.",
+                        dangerous,
+                    )
+                ),
+                file=fh,
+            )
+        else:
+            print("> Nothing here. :spiral_notepad:")
+        print("---", file=fh)
+        print("End of Report", file=fh)
 
 
 if __name__ == "__main__":
