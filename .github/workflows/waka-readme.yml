@@ -71,5 +71,5 @@ jobs:
       steps:
         - name: Rerun failed jobs in the current workflow
           env:
-            GH_TOKEN: ${{ github.token }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
           run: gh run rerun ${{ github.run_id }} --failed
