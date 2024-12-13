@@ -119,7 +119,7 @@ def main():
                 file=fh,
             )
         else:
-            print("> Nothing here. :spiral_notepad:")
+            print("> Nothing here. :spiral_notepad:", file=fh)
         print("\r\n## Dangerous :radioactive:\r\n", file=fh)
         print(
             "The repository is not under my control, and all commits are either unsigned or unverified.\r\n",
@@ -136,7 +136,7 @@ def main():
                 file=fh,
             )
         else:
-            print("> Nothing here. :spiral_notepad:")
+            print("> Nothing here. :spiral_notepad:", file=fh)
         print("\r\n---\r\n", file=fh)
         print("End of Report", file=fh)
 
