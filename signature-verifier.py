@@ -79,10 +79,10 @@ def main():
                 print(f"Error fetching author commits for {repo}: {e}")
 
     with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as fh:
-        print(f"# Verification Report on the Signatures of Commits", file=fh)
+        print(f"# Verification Report on the Signatures of Commits\r\n", file=fh)
         if len(unsigned_repo) == 0:
             print(
-                ":tada: All commits have been properly signed and are in compliance with the signature verification requirements. :tada:"
+                ":tada: All commits have been properly signed and are in compliance with the signature verification requirements. :tada:\r\n"
             )
             return
 
@@ -100,12 +100,12 @@ def main():
                 dangerous.append(repo)
 
         print(
-            "The following repositories contain unsigned or unverified signatures. :question:",
+            "The following repositories contain unsigned or unverified signatures. :question:\r\n",
             file=fh,
         )
-        print("## Low Risk :white_check_mark:", file=fh)
+        print("\r\n## Low Risk :white_check_mark:\r\n", file=fh)
         print(
-            "The repository is either owned by me or contains commits that have been signed previously.",
+            "The repository is either owned by me or contains commits that have been signed previously.\r\n",
             file=fh,
         )
         if len(low_risk) > 0:
@@ -120,10 +120,9 @@ def main():
             )
         else:
             print("> Nothing here. :spiral_notepad:")
-        print("---", file=fh)
-        print("## Dangerous :radioactive:", file=fh)
+        print("\r\n## Dangerous :radioactive:\r\n", file=fh)
         print(
-            "The repository is not under my control, and all commits are either unsigned or unverified.",
+            "The repository is not under my control, and all commits are either unsigned or unverified.\r\n",
             file=fh,
         )
         if len(dangerous) > 0:
@@ -138,7 +137,7 @@ def main():
             )
         else:
             print("> Nothing here. :spiral_notepad:")
-        print("---", file=fh)
+        print("\r\n---\r\n", file=fh)
         print("End of Report", file=fh)
 
 
