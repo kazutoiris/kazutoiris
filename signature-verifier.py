@@ -100,7 +100,7 @@ def main():
                 dangerous.append(repo)
 
         print(
-            "The following repositories contain unsigned or unverified signatures.",
+            "The following repositories contain unsigned or unverified signatures. :question:",
             file=fh,
         )
         print("## Low Risk :white_check_mark:", file=fh)
@@ -111,7 +111,7 @@ def main():
         print(
             "\r\n".join(
                 map(
-                    lambda repo: f"* {repo} (author: {commit_check_result[repo]['unverified']}/{commit_check_result[repo]['all']})",
+                    lambda repo: f"* **{repo}**: Total of `{commit_check_result[repo]['all']}` commits, including `{commit_check_result[repo]['unverified']}` commits that are unsigned/unverified.",
                     low_risk,
                 )
             ),
@@ -126,7 +126,7 @@ def main():
         print(
             "\r\n".join(
                 map(
-                    lambda repo: f"* {repo} (author: {commit_check_result[repo]['unverified']}/{commit_check_result[repo]['all']})",
+                    lambda repo: f"* **{repo}**: Total of `{commit_check_result[repo]['all']}` commits, including `{commit_check_result[repo]['unverified']}` commits that are unsigned/unverified.",
                     dangerous,
                 )
             ),
