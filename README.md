@@ -28,13 +28,11 @@
 [View the Verification Report on the Signatures of Commits](https://github.com/kazutoiris/kazutoiris/actions/workflows/waka-readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2015%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2024
+> 🏆 394 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,7 +67,7 @@ IntelliJ IDEA            25 mins             █████░░░░░░�
 ```
 
 
- Last Updated on 13/12/2024 02:21:56 UTC
+ Last Updated on 13/12/2024 02:26:29 UTC
 <!--END_SECTION:waka-->
 
 ## License
