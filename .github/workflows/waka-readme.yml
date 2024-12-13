@@ -61,7 +61,7 @@ jobs:
         python -m pip install --upgrade pip requests
     - name: Run python script
       env:
-        GH_USER: ${{ github.actor }}
+        GH_USER: ${{ github.repository_owner }}
       run: |
         python3 signature-verifier.py
 
