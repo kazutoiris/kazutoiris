@@ -27,6 +27,7 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
 
   snake:
     name: Generate Snake
@@ -58,7 +59,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip requests
-    - name: run python script
+    - name: Run python script
       env:
         GH_USER: ${{ github.actor }}
       run: |

@@ -25,6 +25,8 @@
 
 ###
 
+[View the Verification Report on the Signatures of Commits](https://github.com/kazutoiris/kazutoiris/actions/workflows/waka-readme.yml)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2015%20mins-blue)
 
