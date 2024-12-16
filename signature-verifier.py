@@ -49,7 +49,7 @@ def get_commits(repo):
             },
         ).json()
         print(f"::debug::Gather committer commits from {repo}/{i}...")
-        if not isinstance(res, list) 
+        if not isinstance(res, list):
             raise Exception(f"failed to gather {repo}: {res}")
             break
         elif len(res) == 0:
@@ -73,7 +73,7 @@ def get_commits(repo):
             },
         ).json()
         print(f"::debug::Gather author commits from {repo}/{i}...")
-        if not isinstance(res, list) 
+        if not isinstance(res, list):
             raise Exception(f"failed to gather {repo}: {res}")
             break
         elif len(res) == 0:
