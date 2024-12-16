@@ -71,7 +71,7 @@ def get_commits(repo, type):
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
         i += 1
-    cnt["unverified"] = sum(1 for value in data.values() if value is False)
+    cnt["unverified"] = sum(1 for value in commit_map.values() if value is False)
     cnt["all"] = len(commit_map)
     if cnt["unverified"] != 0:
         print(f"::warning::{repo} have unsigned {type} commits!")
