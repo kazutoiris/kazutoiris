@@ -49,8 +49,10 @@ def get_commits(repo):
             },
         ).json()
         print(f"::debug::Gather committer commits from {repo}/{i}...")
-        if not isinstance(res, list) or len(res) == 0:
-            print(f"::debug::Nothing found in committer commits {res}")
+        if not isinstance(res, list) 
+            raise Exception(f"failed to gather {repo}: {res}")
+            break
+        elif len(res) == 0:
             break
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
@@ -71,8 +73,10 @@ def get_commits(repo):
             },
         ).json()
         print(f"::debug::Gather author commits from {repo}/{i}...")
-        if not isinstance(res, list) or len(res) == 0:
-            print(f"::debug::Nothing found in committer commits {res}")
+        if not isinstance(res, list) 
+            raise Exception(f"failed to gather {repo}: {res}")
+            break
+        elif len(res) == 0:
             break
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
@@ -99,7 +103,7 @@ def main():
                 result = future.result()
                 commit_check_result[repo] = result
             except Exception as e:
-                print(f"Error fetching author commits for {repo}: {e}")
+                print(f"::error::Error fetching commits for {repo}: {e}")
 
     with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as fh:
         print(f"# Verification Report on the Signatures of Commits\r\n", file=fh)
