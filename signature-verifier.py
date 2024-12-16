@@ -27,7 +27,7 @@ def get_all_public_repo():
     return ret
 
 
-def get_commits(repo, type):
+def get_commits(repo):
     commit_map = {}
     print(f"::debug::Checking {repo}...")
     i = 1
@@ -47,6 +47,7 @@ def get_commits(repo, type):
         ).json()
         print(f"::debug::Gather committer commits from {repo}/{i}...")
         if not isinstance(res, list) or len(res) == 0:
+            printf("::debug::Nothing found in committer commits {res}")
             break
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
@@ -67,6 +68,7 @@ def get_commits(repo, type):
         ).json()
         print(f"::debug::Gather author commits from {repo}/{i}...")
         if not isinstance(res, list) or len(res) == 0:
+            printf("::debug::Nothing found in committer commits {res}")
             break
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
@@ -74,7 +76,7 @@ def get_commits(repo, type):
     cnt["unverified"] = sum(1 for value in commit_map.values() if value is False)
     cnt["all"] = len(commit_map)
     if cnt["unverified"] != 0:
-        print(f"::warning::{repo} have unsigned {type} commits!")
+        print(f"::warning::{repo} have unsigned commits!")
         unsigned_repo.add(repo)
     return cnt
 
@@ -86,7 +88,7 @@ def main():
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         future_to_repo1 = {
-            executor.submit(get_commits, repo, "author"): repo for repo in repos.keys()
+            executor.submit(get_commits, repo): repo for repo in repos.keys()
         }
 
         for future in concurrent.futures.as_completed(future_to_repo1):
