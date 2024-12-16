@@ -84,7 +84,7 @@ def get_commits(repo):
     cnt["unverified"] = sum(1 for value in commit_map.values() if value is False)
     cnt["all"] = len(commit_map)
     if cnt["unverified"] != 0:
-        print(f"::warning::{repo} have unsigned commits!")
+        print(f"::warning::{repo} has unsigned commits!")
         unsigned_repo.add(repo)
     return cnt
 
