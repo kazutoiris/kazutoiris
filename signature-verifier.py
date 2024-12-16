@@ -3,6 +3,7 @@ import os
 import time
 
 USER = os.environ["GH_USER"]
+TOKEN = os.environ["GH_TOKEN"]
 
 unsigned_repo = set()
 
@@ -12,11 +13,12 @@ def get_all_public_repo():
     i = 1
     while True:
         res = requests.get(
-            f"https://api.github.com/users/{USER}/repos",
+            f"  https://api.github.com/user/repos",
             headers={
                 "Accept": "application/vnd.github+json",
+                "Authorization": f"Bearer {TOKEN}",
             },
-            params={"type": "all", "per_page": 100, "page": i},
+            params={"visibility": "public", "per_page": 100, "page": i},
         ).json()
         if isinstance(res, list) and len(res) > 0:
             ret.update({item["full_name"]: item for item in res})
@@ -38,6 +40,7 @@ def get_commits(repo):
             f"https://api.github.com/repos/{repo}/commits",
             headers={
                 "Accept": "application/vnd.github+json",
+                "Authorization": f"Bearer {TOKEN}",
             },
             params={
                 "type": "all",
@@ -60,6 +63,7 @@ def get_commits(repo):
             f"https://api.github.com/repos/{repo}/commits",
             headers={
                 "Accept": "application/vnd.github+json",
+                "Authorization": f"Bearer {TOKEN}",
             },
             params={
                 "type": "all",

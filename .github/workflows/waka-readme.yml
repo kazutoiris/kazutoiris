@@ -62,6 +62,7 @@ jobs:
     - name: Run python script
       env:
         GH_USER: ${{ github.repository_owner }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         python3 signature-verifier.py
 
