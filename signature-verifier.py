@@ -1,6 +1,6 @@
 import requests
 import os
-import concurrent.futures
+import time
 
 USER = os.environ["GH_USER"]
 
@@ -33,6 +33,7 @@ def get_commits(repo):
     i = 1
     cnt = {"unverified": 0, "all": 0}
     while True:
+        time.sleep(1)
         res = requests.get(
             f"https://api.github.com/repos/{repo}/commits",
             headers={
@@ -54,6 +55,7 @@ def get_commits(repo):
         i += 1
     i = 1
     while True:
+        time.sleep(1)
         res = requests.get(
             f"https://api.github.com/repos/{repo}/commits",
             headers={
@@ -82,22 +84,11 @@ def get_commits(repo):
 
 
 def main():
-
     repos = get_all_public_repo()
     commit_check_result = {}
 
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        future_to_repo1 = {
-            executor.submit(get_commits, repo): repo for repo in repos.keys()
-        }
-
-        for future in concurrent.futures.as_completed(future_to_repo1):
-            repo = future_to_repo1[future]
-            try:
-                result = future.result()
-                commit_check_result[repo] = result
-            except Exception as e:
-                print(f"Error fetching author commits for {repo}: {e}")
+    for repo in repos.keys():
+        commit_check_result[repo] = get_commits(repo)
 
     with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as fh:
         print(f"# Verification Report on the Signatures of Commits\r\n", file=fh)
