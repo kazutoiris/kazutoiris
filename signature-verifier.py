@@ -28,6 +28,7 @@ def get_all_public_repo():
 
 
 def get_commits(repo, type):
+    commit_map = {}
     print(f"::debug::Checking {repo}...")
     i = 1
     cnt = {"unverified": 0, "all": 0}
@@ -41,19 +42,37 @@ def get_commits(repo, type):
                 "type": "all",
                 "per_page": 100,
                 "page": i,
-                "author": USER,
                 "committer": USER,
             },
         ).json()
-        print(f"::debug::Gather commits from {repo}/{i}...")
+        print(f"::debug::Gather committer commits from {repo}/{i}...")
         if not isinstance(res, list) or len(res) == 0:
             break
-        cnt["unverified"] += sum(
-            not x.get("commit", {}).get("verification", {}).get("verified", True)
-            for x in res
-        )
-        cnt["all"] += len(res)
+        for item in res:
+            commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
         i += 1
+    i = 1
+    while True:
+        res = requests.get(
+            f"https://api.github.com/repos/{repo}/commits",
+            headers={
+                "Accept": "application/vnd.github+json",
+            },
+            params={
+                "type": "all",
+                "per_page": 100,
+                "page": i,
+                "author": USER,
+            },
+        ).json()
+        print(f"::debug::Gather author commits from {repo}/{i}...")
+        if not isinstance(res, list) or len(res) == 0:
+            break
+        for item in res:
+            commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
+        i += 1
+    cnt["unverified"] = sum(1 for value in data.values() if value is False)
+    cnt["all"] = len(commit_map)
     if cnt["unverified"] != 0:
         print(f"::warning::{repo} have unsigned {type} commits!")
         unsigned_repo.add(repo)
