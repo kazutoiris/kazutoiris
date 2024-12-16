@@ -47,7 +47,7 @@ def get_commits(repo):
         ).json()
         print(f"::debug::Gather committer commits from {repo}/{i}...")
         if not isinstance(res, list) or len(res) == 0:
-            printf("::debug::Nothing found in committer commits {res}")
+            print(f"::debug::Nothing found in committer commits {res}")
             break
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
@@ -68,7 +68,7 @@ def get_commits(repo):
         ).json()
         print(f"::debug::Gather author commits from {repo}/{i}...")
         if not isinstance(res, list) or len(res) == 0:
-            printf("::debug::Nothing found in committer commits {res}")
+            print(f"::debug::Nothing found in committer commits {res}")
             break
         for item in res:
             commit_map[item["sha"]] = item.get("commit", {}).get("verification", {}).get("verified", True)
