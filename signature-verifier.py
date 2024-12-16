@@ -1,6 +1,5 @@
 import requests
 import os
-import time
 
 USER = os.environ["GH_USER"]
 TOKEN = os.environ["GH_TOKEN"]
@@ -35,7 +34,6 @@ def get_commits(repo):
     i = 1
     cnt = {"unverified": 0, "all": 0}
     while True:
-        time.sleep(1)
         res = requests.get(
             f"https://api.github.com/repos/{repo}/commits",
             headers={
@@ -58,7 +56,6 @@ def get_commits(repo):
         i += 1
     i = 1
     while True:
-        time.sleep(1)
         res = requests.get(
             f"https://api.github.com/repos/{repo}/commits",
             headers={
