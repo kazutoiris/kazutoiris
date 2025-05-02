@@ -32,8 +32,6 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -57,15 +55,14 @@ Sunday                   229 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   1 hr 21 mins        █████████████████████░░░░   84.35 % 
-Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/05/2025 01:47:35 UTC
+ Last Updated on 02/05/2025 01:39:34 UTC
 <!--END_SECTION:waka-->
 
 ## License
