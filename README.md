@@ -32,6 +32,8 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
+> 🏆 62 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -55,14 +57,16 @@ Sunday                   229 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               12 mins             █████████████████████░░░░   85.35 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2025 01:39:34 UTC
+ Last Updated on 03/05/2025 01:29:12 UTC
 <!--END_SECTION:waka-->
 
 ## License
