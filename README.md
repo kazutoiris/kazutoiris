@@ -55,14 +55,15 @@ Sunday                   299 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Scala                    0 secs              ████████████████████████░   96.50 % 
+Nix file                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2025 01:42:10 UTC
+ Last Updated on 23/05/2025 01:41:43 UTC
 <!--END_SECTION:waka-->
 
 ## License
