@@ -32,8 +32,6 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 50 Public Repositories 
@@ -65,7 +63,7 @@ IntelliJ IDEA            0 secs              ███████████�
 ```
 
 
- Last Updated on 26/05/2025 01:45:23 UTC
+ Last Updated on 27/05/2025 01:41:19 UTC
 <!--END_SECTION:waka-->
 
 ## License
