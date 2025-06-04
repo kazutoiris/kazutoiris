@@ -32,9 +32,11 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
+> 🏆 75 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 49 Private Repositories 
  > 
@@ -55,14 +57,14 @@ Sunday                   301 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2025 01:44:07 UTC
+ Last Updated on 04/06/2025 01:44:23 UTC
 <!--END_SECTION:waka-->
 
 ## License
