@@ -32,8 +32,6 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 50 Public Repositories 
@@ -57,14 +55,14 @@ Sunday                   235 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 7 mins         █████████████████████████   100.00 % 
+Python                   1 hr 13 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2025 01:45:19 UTC
+ Last Updated on 05/07/2025 01:41:49 UTC
 <!--END_SECTION:waka-->
 
 ## License
