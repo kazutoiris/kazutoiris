@@ -29,17 +29,16 @@ def get_all_public_repo():
     return ret
 
 
-
 def get_all_watched_repo():
     ret = {}
     i = 1
     while True:
         res = requests.get(
-            f"https://api.github.com/users/{USER}/subscriptions",
+            f"https://api.github.com/user/subscriptions",
             headers={
                 "Accept": "application/vnd.github+json",
                 "Authorization": f"Bearer {TOKEN}",
-                "X-GitHub-Api-Version": "2022-11-28"
+                "X-GitHub-Api-Version": "2022-11-28",
             },
             params={"per_page": 100, "page": i},
         ).json()
@@ -51,39 +50,46 @@ def get_all_watched_repo():
 
     return ret
 
+
 def get_all_need_watch_repo():
     ret = set()
     public_repos = get_all_public_repo().keys()
     watched_repos = get_all_watched_repo().keys()
-    print(watched_repos)
     for repo in public_repos:
         if repo not in watched_repos:
             ret.add(repo)
 
     return ret
 
+
 def watch_repo(repo):
-    res = requests.put(f"https://api.github.com/repos/{repo}/subscription",
-                       headers={
-                           "Accept": "application/vnd.github+json",
-                           "Authorization": f"Bearer {TOKEN}",
-                           "X-GitHub-Api-Version": "2022-11-28",
-                       },
-                       json={"subscribed": True, "ignored": False})
+    res = requests.put(
+        f"https://api.github.com/repos/{repo}/subscription",
+        headers={
+            "Accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {TOKEN}",
+            "X-GitHub-Api-Version": "2022-11-28",
+        },
+        json={"subscribed": True, "ignored": False},
+    )
 
     return res
+
 
 def main():
     with concurrent.futures.ThreadPoolExecutor() as executor:
         future_to_repo1 = {
-            executor.submit(watch_repo, repo): repo for repo in get_all_need_watch_repo()
+            executor.submit(watch_repo, repo): repo
+            for repo in get_all_need_watch_repo()
         }
         for future in concurrent.futures.as_completed(future_to_repo1):
             repo = future_to_repo1[future]
             try:
                 result = future.result()
                 if not result.ok:
-                   print(f"::error::Error watch for {repo}: {result.text}", flush=True)
+                    print(f"::error::Error watch for {repo}: {result.text}", flush=True)
+                else:
+                    print(f"::notice::Watch for {repo}", flush=True)
             except Exception as e:
                 print(f"::error::Error watch for {repo}: {e}", flush=True)
 
