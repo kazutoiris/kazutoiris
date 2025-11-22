@@ -50,7 +50,7 @@ jobs:
     name: Verify the signatures of all commits in public repositories
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Set up Python 3.10
         uses: actions/setup-python@v6
         with:
@@ -69,7 +69,7 @@ jobs:
     name: Watch all repos
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Set up Python 3.10
         uses: actions/setup-python@v6
         with:
