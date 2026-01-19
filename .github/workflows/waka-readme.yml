@@ -9,7 +9,7 @@ permissions:
 jobs:
   wakatime:
     name: Update Readme with Wakatime Metrics
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
