@@ -81,5 +81,6 @@ jobs:
         env:
           GH_USER: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          IGNORE_LIST: ${{ secrets.IGNORE_LIST }}
         run: |
           python3 watch-repos.py

@@ -4,6 +4,7 @@ import requests
 
 USER = os.environ["GH_USER"]
 TOKEN = os.environ["GH_TOKEN"]
+IGNORE_LIST = os.environ["IGNORE_LIST"].split(",")
 
 unsigned_repo = set()
 
@@ -18,7 +19,7 @@ def get_all_public_repo():
                 "Accept": "application/vnd.github+json",
                 "Authorization": f"Bearer {TOKEN}",
             },
-            params={"visibility": "public", "per_page": 100, "page": i},
+            params={"affiliation":"owner,collaborator", "per_page": 100, "page": i},
         ).json()
         if isinstance(res, list) and len(res) > 0:
             ret.update({item["full_name"]: item for item in res})
@@ -56,7 +57,7 @@ def get_all_need_watch_repo():
     public_repos = get_all_public_repo().keys()
     watched_repos = get_all_watched_repo().keys()
     for repo in public_repos:
-        if repo not in watched_repos:
+        if repo not in watched_repos and repo not in IGNORE_LIST:
             ret.add(repo)
 
     return ret
