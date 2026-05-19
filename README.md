@@ -40,8 +40,34 @@
  > 
 > 🔑 55 Private Repositories 
  > 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 18/05/2026 03:51:39 UTC
+```text
+Monday                   547 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Thursday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Saturday                 452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Sunday                   644 commits         ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 21 mins        ███████████████████░░░░░░   74.05 % 
+TypeScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Typst                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🔥 Editors: 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/05/2026 03:44:06 UTC
 <!--END_SECTION:waka-->
 
 ## License
