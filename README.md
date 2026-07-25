@@ -43,13 +43,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Friday                   221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Saturday                 456 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Sunday                   663 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Friday                   221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Saturday                 456 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Sunday                   664 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
 ```
 
 
@@ -57,18 +57,15 @@ Sunday                   663 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 37 mins       ██████████████████░░░░░░░   73.99 % 
-CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+YAML                     5 mins              ████████████████░░░░░░░░░   63.63 % 
+TypeScript               3 mins              █████████░░░░░░░░░░░░░░░░   36.37 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 02:49:42 UTC
+ Last Updated on 25/07/2026 02:47:58 UTC
 <!--END_SECTION:waka-->
 
 ## License
