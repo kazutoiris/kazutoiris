@@ -28,6 +28,8 @@
 [View the Verification Report on the Signatures of Commits](https://github.com/kazutoiris/kazutoiris/actions/workflows/waka-readme.yml)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2022%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
@@ -57,14 +59,22 @@ Sunday                   666 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               26 mins             ███████████████████░░░░░░   77.35 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 03:04:32 UTC
+ Last Updated on 28/07/2026 02:40:47 UTC
 <!--END_SECTION:waka-->
 
 ## License
