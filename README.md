@@ -28,8 +28,6 @@
 [View the Verification Report on the Signatures of Commits](https://github.com/kazutoiris/kazutoiris/actions/workflows/waka-readme.yml)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2022%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
@@ -45,13 +43,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Friday                   221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Saturday                 456 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Sunday                   666 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Friday                   221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Saturday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Sunday                   666 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
 ```
 
 
@@ -59,12 +57,13 @@ Sunday                   666 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 mins             ███████████████████░░░░░░   77.35 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               37 mins             █████████████████░░░░░░░░   69.23 % 
+JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,7 +73,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 02:40:47 UTC
+ Last Updated on 29/07/2026 02:46:57 UTC
 <!--END_SECTION:waka-->
 
 ## License
