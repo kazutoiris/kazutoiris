@@ -45,13 +45,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   559 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Monday                   559 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 Tuesday                  381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 Wednesday                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 Thursday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Friday                   226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Friday                   226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Saturday                 465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Sunday                   681 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Sunday                   682 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 ```
 
 
@@ -59,15 +59,15 @@ Sunday                   681 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Astro                    3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
-TypeScript               3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Kotlin                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+TypeScript               2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
+Kotlin                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Astro                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 49 mins       ██████████████████████░░░   87.98 % 
-IntelliJ IDEA            1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+VS Code                  5 hrs 11 mins       ████████████████████░░░░░   79.46 % 
+IntelliJ IDEA            1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/10/2026 04:32:09 UTC
+ Last Updated on 12/10/2026 04:48:26 UTC
 <!--END_SECTION:waka-->
 
 ## License
