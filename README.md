@@ -45,13 +45,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   560 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Wednesday                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Thursday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Friday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Sunday                   684 commits         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Monday                   560 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Tuesday                  391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Thursday                 249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Friday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Sunday                   684 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
 ```
 
 
@@ -59,15 +59,15 @@ Sunday                   684 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.81 % 
-Kotlin                   55 mins             ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Astro                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+TypeScript               56 mins             █████████░░░░░░░░░░░░░░░░   37.94 % 
+Kotlin                   55 mins             █████████░░░░░░░░░░░░░░░░   37.18 % 
+Astro                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        ██████████████░░░░░░░░░░░   55.27 % 
-IntelliJ IDEA            1 hr 20 mins        ███████████░░░░░░░░░░░░░░   44.73 % 
+IntelliJ IDEA            1 hr 20 mins        ██████████████░░░░░░░░░░░   54.33 % 
+VS Code                  1 hr 7 mins         ███████████░░░░░░░░░░░░░░   45.67 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2026 03:57:14 UTC
+ Last Updated on 15/10/2026 03:39:36 UTC
 <!--END_SECTION:waka-->
 
 ## License
