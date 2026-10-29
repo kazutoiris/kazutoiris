@@ -45,12 +45,12 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   563 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   564 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Wednesday                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 Sunday                   693 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 ```
 
@@ -59,20 +59,42 @@ Sunday                   693 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
+Kotlin                   1 hr 22 mins        ███████████████████░░░░░░   75.45 % 
+Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Java                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 5 mins         ███████████████░░░░░░░░░░   59.72 % 
+Claude Code              32 mins             ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 33 mins (30.43%)
+
+✍️ 452 lines written by AI, 33 lines written by hand (93.2% AI-written)
+
+🔤 452,821 Input Tokens, 15,492 Output Tokens
+
+💵 $5.04 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+DeepSeek                 477 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.2% of written lines came from AI
+📝 Concise Prompter — average 45 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 32.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 04:30:40 UTC
+ Last Updated on 29/10/2026 04:50:35 UTC
 <!--END_SECTION:waka-->
 
 ## License
