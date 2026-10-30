@@ -28,7 +28,7 @@
 [View the Verification Report on the Signatures of Commits](https://github.com/kazutoiris/kazutoiris/actions/workflows/waka-readme.yml)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,24 +59,24 @@ Sunday                   693 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 22 mins        ███████████████████░░░░░░   75.45 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Java                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Kotlin                   7 hrs 34 mins       ██████████████████████░░░   89.57 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 5 mins         ███████████████░░░░░░░░░░   59.72 % 
-Claude Code              32 mins             ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+IntelliJ IDEA            7 hrs 30 mins       ██████████████████████░░░   88.79 % 
+Claude Code              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (30.43%)
+⏱ AI Coding Time: 33 mins (6.56%)
 
-✍️ 452 lines written by AI, 33 lines written by hand (93.2% AI-written)
+✍️ 452 lines written by AI, 302 lines written by hand (59.95% AI-written)
 
 🔤 452,821 Input Tokens, 15,492 Output Tokens
 
@@ -87,14 +87,14 @@ VS Code                  11 mins             ███░░░░░░░░�
 DeepSeek                 477 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.2% of written lines came from AI
+⚖️ Balanced with AI — 59.95% of written lines came from AI
 📝 Concise Prompter — average 45 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 32.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 04:50:35 UTC
+ Last Updated on 30/10/2026 04:49:13 UTC
 <!--END_SECTION:waka-->
 
 ## License
