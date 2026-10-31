@@ -45,13 +45,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   564 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Monday                   564 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Tuesday                  393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Wednesday                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Sunday                   693 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Sunday                   693 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 ```
 
 
@@ -59,24 +59,24 @@ Sunday                   693 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   7 hrs 34 mins       ██████████████████████░░░   89.57 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Kotlin                   8 hrs 36 mins       ██████████████████████░░░   88.13 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 30 mins       ██████████████████████░░░   88.79 % 
-Claude Code              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+IntelliJ IDEA            8 hrs 32 mins       ██████████████████████░░░   87.47 % 
+VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Claude Code              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (6.56%)
+⏱ AI Coding Time: 33 mins (5.68%)
 
-✍️ 452 lines written by AI, 302 lines written by hand (59.95% AI-written)
+✍️ 452 lines written by AI, 388 lines written by hand (53.81% AI-written)
 
 🔤 452,821 Input Tokens, 15,492 Output Tokens
 
@@ -87,14 +87,14 @@ VS Code                  24 mins             █░░░░░░░░░░�
 DeepSeek                 477 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.95% of written lines came from AI
+⚖️ Balanced with AI — 53.81% of written lines came from AI
 📝 Concise Prompter — average 45 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 61.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 04:49:13 UTC
+ Last Updated on 31/10/2026 04:34:08 UTC
 <!--END_SECTION:waka-->
 
 ## License
