@@ -28,73 +28,20 @@
 [View the Verification Report on the Signatures of Commits](https://github.com/kazutoiris/kazutoiris/actions/workflows/waka-readme.yml)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2032%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 1.7 MB Used in GitHub's Storage 
+> 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2026
+> 🏆 145 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 64 Public Repositories 
  > 
-> 🔑 58 Private Repositories 
+> 🔑 59 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
 
-```text
-Monday                   564 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Tuesday                  393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Wednesday                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Thursday                 251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Sunday                   694 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   8 hrs 36 mins       ██████████████████████░░░   88.13 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-
-🔥 Editors: 
-IntelliJ IDEA            8 hrs 32 mins       ██████████████████████░░░   87.47 % 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Claude Code              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 33 mins (5.68%)
-
-✍️ 452 lines written by AI, 388 lines written by hand (53.81% AI-written)
-
-🔤 452,821 Input Tokens, 15,492 Output Tokens
-
-💵 $5.04 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-DeepSeek                 477 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.81% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 63.64% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/11/2026 04:53:09 UTC
+ Last Updated on 03/11/2026 06:25:30 UTC
 <!--END_SECTION:waka-->
 
 ## License
