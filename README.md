@@ -1,21 +1,27 @@
 ###
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=kazutoiris&data=followers,repositories,stars,commits"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kazutoiris/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazutoiris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazutoiris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://github-widgetbox.vercel.app/api/profile?username=kazutoiris&data=followers,repositories,stars,commits"
+        alt="GitHub WidgetBox"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://ghfind.com/api/card/mini/kazutoiris?variant=radar&theme=dark&lang=zh"
+        />
+        <img
+          src="https://ghfind.com/api/card/mini/kazutoiris?variant=radar&theme=light&lang=zh"
+          alt="GitHub Roast"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ###
 
