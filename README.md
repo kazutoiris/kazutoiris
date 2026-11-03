@@ -42,8 +42,59 @@
  > 
 > 🔑 59 Private Repositories 
  > 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 03/11/2026 06:55:17 UTC
+```text
+Monday                   560 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Tuesday                  390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Wednesday                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Thursday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Saturday                 468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Sunday                   697 commits         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   8 hrs 48 mins       █████████████████████░░░░   84.51 % 
+Java                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+
+🔥 Editors: 
+IntelliJ IDEA            8 hrs 32 mins       ████████████████████░░░░░   81.87 % 
+Claude Code              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 25 mins (13.59%)
+
+✍️ 520 lines written by AI, 378 lines written by hand (57.91% AI-written)
+
+🔤 1,517,524 Input Tokens, 38,329 Output Tokens
+
+💵 $32.10 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 14 AI Prompts
+
+DeepSeek                 814 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 57.91% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 49.25% of changed lines were hand-edited
+```
+
+
+ Last Updated on 03/11/2026 07:20:39 UTC
 <!--END_SECTION:waka-->
 
 ## License
