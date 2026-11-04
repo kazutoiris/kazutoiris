@@ -40,7 +40,7 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 148 Contributions in the Year 2026
+> 🏆 150 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,13 +51,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   558 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Tuesday                  391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Wednesday                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Thursday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Saturday                 468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Sunday                   697 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Monday                   558 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Tuesday                  402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Saturday                 468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Sunday                   699 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
 ```
 
 
@@ -65,42 +65,42 @@ Sunday                   697 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   8 hrs 48 mins       █████████████████████░░░░   84.51 % 
-Java                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Kotlin                   8 hrs 36 mins       ██████████████████████░░░   89.93 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 32 mins       ████████████████████░░░░░   81.87 % 
-Claude Code              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+IntelliJ IDEA            8 hrs 32 mins       ██████████████████████░░░   89.26 % 
+Claude Code              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (13.59%)
+⏱ AI Coding Time: 33 mins (5.8%)
 
-✍️ 520 lines written by AI, 378 lines written by hand (57.91% AI-written)
+✍️ 452 lines written by AI, 378 lines written by hand (54.46% AI-written)
 
-🔤 1,517,524 Input Tokens, 38,329 Output Tokens
+🔤 452,821 Input Tokens, 15,492 Output Tokens
 
-💵 $32.10 Estimated AI Cost This Week
+💵 $5.04 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 14 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-DeepSeek                 814 lines           █████████████████████████   100.00 % 
+DeepSeek                 477 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.91% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
+⚖️ Balanced with AI — 54.46% of written lines came from AI
+📝 Concise Prompter — average 45 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 49.25% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/11/2026 08:48:06 UTC
+ Last Updated on 04/11/2026 05:22:35 UTC
 <!--END_SECTION:waka-->
 
 ## License
