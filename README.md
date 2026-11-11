@@ -51,13 +51,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   562 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Tuesday                  400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Wednesday                337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Thursday                 266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Friday                   230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Saturday                 468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Sunday                   699 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Monday                   563 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Tuesday                  406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Wednesday                337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Thursday                 265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Friday                   230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Saturday                 468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Sunday                   699 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
 ```
 
 
@@ -65,10 +65,14 @@ Sunday                   699 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Astro                    1 hr 3 mins         ██████████████████████░░░   88.34 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,7 +82,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/11/2026 06:30:00 UTC
+ Last Updated on 11/11/2026 05:16:15 UTC
 <!--END_SECTION:waka-->
 
 ## License
